@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pavannayak9502.github.io/Login",
   "name": "login",
+  "homepage": "https://pavannayak9502.github.io/Login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
