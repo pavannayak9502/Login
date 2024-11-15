@@ -7,12 +7,14 @@ import "./App.css";
 const App = () => {
   return (
     <>
+    <div>
     <Router>
         <Routes>
         <Route path="/" element={<Auth />} />
             <Route path="/home" element={<Home/>} />
         </Routes>
     </Router>
+    </div>
     </>
   );
 };
